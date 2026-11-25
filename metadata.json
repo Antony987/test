@@ -1,0 +1,6 @@
+{
+  "name": "IdeaStream AI",
+  "description": "Γρήγορη καταγραφή σκέψεων, ανάλυση εικόνων με Gemini 4 Argon, και AI καθοδήγηση & συνομιλία.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
